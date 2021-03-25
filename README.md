@@ -8,4 +8,4 @@ Stuff required to make xampp a global server<br>
 5.xampp-control.exe.lnk drag and drop this file to your C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
 
 Or use the auto installer <br>
-Download: <a href="">Installer</a>
+Download: <a href="https://github.com/MEGAMINDMK/Xampp-Tweaks/releases/download/v1.0/xampp-files-copy.zip">Installer</a>

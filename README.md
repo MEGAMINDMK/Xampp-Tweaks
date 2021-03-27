@@ -10,4 +10,4 @@ Stuff required to make xampp a global server<br>
 Or use the auto installer <br>
 Download: <a href="https://github.com/MEGAMINDMK/Xampp-Tweaks/releases/download/v1.1/xampp-files-copy.zip">Installer</a> <br>
 
-Note: Make sure you have setup a root password in phpmyadmin control panel
+Note: Make sure you have setup a root password in phpmyadmin control panel and your xampp and mysql and any other serivice if ur tryin to run make sure your ports are porperly forwaded
